@@ -1,0 +1,8 @@
+def dog_to_human_years(dog_age):
+ 
+    human_age = dog_age * 7
+    return human_age
+
+# Example usage
+input1 = 5  
+print(dog_to_human_years(input1))  
